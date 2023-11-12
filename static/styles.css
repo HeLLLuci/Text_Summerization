@@ -1,0 +1,74 @@
+.jumbotron {
+background: linear-gradient(-45deg, #9293dc, #475de3);
+border-radius: 10px;
+margin-top: 20px;
+}
+
+.original_title{
+background-color: orange;
+border-radius: 10px;
+font-size: 20px;
+font-weight: bold;
+paading: 2px;
+display: flex;
+justify-content: center;
+}
+
+.summary_title{
+background-color: greenyellow;
+border-radius: 10px;
+font-size: 20px;
+font-weight: bold;
+paading: 2px;
+display: flex;
+justify-content: center;
+}
+
+.srt{
+display: flex;
+  flex-direction: row;
+}
+
+.originalTxt{
+background-color: orange;
+border-radius: 20px;
+padding: 20px;
+margin-right: 5px;
+}
+
+.summaryTxt{
+background-color: greenyellow;
+border-radius: 20px;
+padding: 20px;
+margin-left: 5px;
+}
+
+.heading{
+font-weight: bold;
+display: flex;
+justify-content:center;
+border-radius: 10px;
+color: white;
+font-family: 'Lucida Handwriting';
+}
+
+.subTitle{
+display:flex;
+justify-content: center;
+font-family: 'Papyrus';
+color: white;
+}
+
+.submitBtn{
+margin-top: 10px;
+}
+
+.btn{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.org{
+margin-bottom: 20px;
+}
